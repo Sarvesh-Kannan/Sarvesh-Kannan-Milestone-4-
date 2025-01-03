@@ -54,7 +54,7 @@ This dataset "HR-Attrition dataset" was sourced from [kaggle](https://www.kaggle
 Enhancing the dashboard experience, the chatbot provides:
 - **Real-Time Insights:** Department-specific stock data and income trends.
 - **Attrition Prediction:** Personalized attrition risk and retention strategies.
-  <img width="653" alt="image" src="https://github.com/user-attachments/assets/b226ed1e-a02e-4c77-872e-ddee7ea3461c" />
+<img width="653" alt="image" src="https://github.com/user-attachments/assets/b226ed1e-a02e-4c77-872e-ddee7ea3461c" />
 
 - **Satisfaction Guidance:** Strategies to improve compensation satisfaction and engagement.
 <img width="638" alt="image" src="https://github.com/user-attachments/assets/d3fbb021-20f7-4980-bfb6-9dbeb87ad508" />
