@@ -4,6 +4,8 @@
 Welcome to the **Strategic HR Analytics Dashboard**, a comprehensive analysis tool designed to uncover critical patterns in employee engagement, compensation, and satisfaction. This project integrates advanced data preprocessing techniques and an interactive chatbot to deliver actionable insights for HR and management professionals.
 
 ---
+### About the Dataset 
+This dataset "HR-Attrition dataset" was sourced from [kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset).
 
 ## Key Features used
 ### 1. **Stock Options Analysis**
