@@ -45,7 +45,8 @@ This dataset "HR-Attrition dataset" was sourced from [kaggle](https://www.kaggle
 - **Data Cleaning:** Handled missing values, outliers, and anomalies.
 - **Feature Engineering:** Derived key metrics for compensation, engagement, and attrition.
 - **Visualization Prep:** Prepared data for insightful graphical representation.
-<img width="679" alt="image" src="https://github.com/user-attachments/assets/8250820c-2997-4bf1-ade6-cbb71f510d5a" />
+<img width="636" alt="image" src="https://github.com/user-attachments/assets/ffcf2552-c6ea-42a0-be6d-27f6679c41df" />
+
 
 
 ---
