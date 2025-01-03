@@ -43,6 +43,8 @@ Welcome to the **Strategic HR Analytics Dashboard**, a comprehensive analysis to
 - **Data Cleaning:** Handled missing values, outliers, and anomalies.
 - **Feature Engineering:** Derived key metrics for compensation, engagement, and attrition.
 - **Visualization Prep:** Prepared data for insightful graphical representation.
+<img width="679" alt="image" src="https://github.com/user-attachments/assets/8250820c-2997-4bf1-ade6-cbb71f510d5a" />
+
 
 ---
 
@@ -50,13 +52,21 @@ Welcome to the **Strategic HR Analytics Dashboard**, a comprehensive analysis to
 Enhancing the dashboard experience, the chatbot provides:
 - **Real-Time Insights:** Department-specific stock data and income trends.
 - **Attrition Prediction:** Personalized attrition risk and retention strategies.
+  <img width="653" alt="image" src="https://github.com/user-attachments/assets/b226ed1e-a02e-4c77-872e-ddee7ea3461c" />
+
 - **Satisfaction Guidance:** Strategies to improve compensation satisfaction and engagement.
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/d3fbb021-20f7-4980-bfb6-9dbeb87ad508" />
+
 
 ---
 
 ## Usage
 ### 1. **Access the Dashboard**
 Navigate through intuitive visualizations to explore detailed insights.
+
+<img width="631" alt="image" src="https://github.com/user-attachments/assets/f79448f2-8f11-4578-b329-ec7b0a0bf786" />
+
+
 ### 2. **Chatbot Interaction**
 Ask questions like:
 - “What are the stock option trends in R&D?”
