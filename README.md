@@ -1,7 +1,7 @@
 # Strategic HR Analytics Dashboard
 
 ## Overview
-Welcome to the **Strategic HR Analytics Dashboard**, a comprehensive analysis tool designed to uncover critical patterns in employee engagement, compensation, and satisfaction. This project integrates advanced data preprocessing techniques and an interactive chatbot to deliver actionable insights for HR and management professionals.
+Welcome to the Strategic HR Analytics Dashboard, a powerful tool designed to analyze employee engagement, compensation, and satisfaction using **Power BI**. This project integrates advanced **DAX functions** and leverages interactive and dynamic visualizations to uncover key patterns and insights. These comprehensive analytics empower HR and management professionals to make informed, data-driven decisions effectively.
 
 ---
 ### About the Dataset 
